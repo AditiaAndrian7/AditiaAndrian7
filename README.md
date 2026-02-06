@@ -11,6 +11,8 @@ Hi! I'm Aditia Andrian, a tech enthusiast.<br><br>I graduated from Computer Netw
 ![](https://github-readme-stats.vercel.app/api?username=AditiaAndrian7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AditiaAndrian7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaAndrian7&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AditiaAndrian7&theme=github-dark)
+
 
 
 
