@@ -4,18 +4,22 @@ Software developer focused on backend systems, automation, and full-stack web de
 
 Building tools around video processing pipelines, Discord bot architecture, and AI-assisted workflows.
 
-Connect:
-<a href="https://discord.gg/En2SPvJEWG"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a> <a href="https://instagram.com/aditiaa78_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+### Connect
+
+<a href="https://discord.gg/En2SPvJEWG">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+</a>
+<a href="https://instagram.com/aditiaa78_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
 
 ---
 
 ### Featured Projects
 
-**BotClipDC** — End-to-end AI pipeline for generating Shorts from YouTube videos, integrating speech recognition, highlight detection, subtitle rendering, and automated publishing.
+**NeroveClip** End-to-end AI video processing platform that transforms long-form content into short-form vertical videos through automated transcription, highlight detection, subtitle generation, rendering, and publishing.
 
-**Arcanex** — Scalable management platform for Discord applications, designed around a modular backend architecture and a consistent UI system.
-
-**Tebak Angka** — Desktop game engineered with the MVC architecture, persistent storage, authentication, multiplayer support, and extensible game logic.
+**MentorAI** *(working title)* AI-powered learning platform focused on personalized tutoring, interactive study sessions, progress tracking, and intelligent educational workflows.
 
 ---
 
