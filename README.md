@@ -25,9 +25,9 @@ Building tools around video processing pipelines, Discord bot architecture, and 
 
 ### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AditiaAndrian7&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AditiaAndrian7&theme=github_dark&hide_border=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaAndrian7&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 
-<sub>Profile views: <img src="https://visitcount.itsvg.in/api?id=AditiaAndrian7&icon=0&color=0" alt="visitor count" /></sub>
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=AditiaAndrian7&color=blue&style=flat" alt="profile views" /></sub>
