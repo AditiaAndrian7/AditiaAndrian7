@@ -1,33 +1,42 @@
 # Aditia Andrian
 
-Software developer focused on backend systems, automation, and full-stack web development. Background in Computer Network and Telecommunications, currently studying Informatics Engineering.
+Software developer focused on backend engineering, AI automation, and media processing.
 
-Building tools around video processing pipelines, Discord bot architecture, and AI-assisted workflows.
+I build systems around video pipelines, computer vision, Discord applications, and scalable backend services.
 
----
-
-### Connect
-
-<a href="https://discord.gg/En2SPvJEWG"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
-<a href="https://instagram.com/aditiaa78_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+Currently studying Informatics Engineering.
 
 ---
 
-### Stack
+## Expertise
 
-**Languages** JavaScript · Python · PHP
+Backend Engineering
 
-**Frameworks & Tools** Laravel · React · Node.js · Git
+Node.js • Laravel • REST API • PostgreSQL • Supabase
 
-**Other** Arduino · Canva
+AI & Media Processing
+
+Gemini API • TensorFlow • MediaPipe • FFmpeg
+
+Frontend
+
+React • Vite
 
 ---
 
-### GitHub Stats
+## Selected Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AditiaAndrian7&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaAndrian7&theme=github_dark&hide_border=true&layout=compact)
+• NeroveClip — AI-powered video clipping pipeline
+
+• Discord Automation Platform
+
+• AI Video Processing Engine
 
 ---
 
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=AditiaAndrian7&color=blue&style=flat" alt="profile views" /></sub>
+## GitHub Stats
+
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AditiaAndrian7&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaAndrian7&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
