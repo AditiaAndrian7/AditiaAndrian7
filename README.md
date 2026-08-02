@@ -25,12 +25,15 @@ Building tools around video processing pipelines, Discord bot architecture, and 
 
 ### Stack
 
-**Languages** JavaScript · Python · PHP
+**Languages** JavaScript · Python · PHP · SQL
 
-**Frameworks & Tools** Laravel · React · Node.js · Git
+**Backend** Node.js · Express · Laravel
 
-**Other** Arduino · Canva
+**Frontend** React
 
+**Database** PostgreSQL · Supabase · SQLite
+
+**Tools** Git · Docker · FFmpeg
 ---
 
 ### GitHub Stats
