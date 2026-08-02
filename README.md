@@ -8,27 +8,25 @@ Building tools around video processing pipelines, Discord bot architecture, and 
 
 ### Connect
 
-[Discord](https://discord.gg/En2SPvJEWG) · [Instagram](https://instagram.com/aditiaa78_)
+<a href="https://discord.gg/En2SPvJEWG"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+<a href="https://instagram.com/aditiaa78_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 
 ---
 
 ### Stack
 
-**Languages**
-JavaScript · Python · PHP
+**Languages** JavaScript · Python · PHP
 
-**Frameworks & Tools**
-Laravel · React · Node.js · Git
+**Frameworks & Tools** Laravel · React · Node.js · Git
 
-**Other**
-Arduino · Canva
+**Other** Arduino · Canva
 
 ---
 
 ### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AditiaAndrian7&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaAndrian7&theme=default&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=AditiaAndrian7&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaAndrian7&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 
