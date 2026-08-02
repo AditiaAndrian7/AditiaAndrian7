@@ -1,42 +1,40 @@
 # Aditia Andrian
 
-Software developer focused on backend engineering, AI automation, and media processing.
+Software developer focused on backend systems, automation, and full-stack web development. Background in Computer Network and Telecommunications, currently studying Informatics Engineering.
 
-I build systems around video pipelines, computer vision, Discord applications, and scalable backend services.
+Building tools around video processing pipelines, Discord bot architecture, and AI-assisted workflows.
 
-Currently studying Informatics Engineering.
-
----
-
-## Expertise
-
-Backend Engineering
-
-Node.js • Laravel • REST API • PostgreSQL • Supabase
-
-AI & Media Processing
-
-Gemini API • TensorFlow • MediaPipe • FFmpeg
-
-Frontend
-
-React • Vite
+**Connect:** [Discord](https://discord.gg/En2SPvJEWG) · [Instagram](https://instagram.com/aditiaa78_)
 
 ---
 
-## Selected Projects
+### Featured Projects
 
-• NeroveClip — AI-powered video clipping pipeline
+**BotClipDC** — Node.js pipeline that automates short-form vertical video clip creation from YouTube, with AI highlight detection, Whisper transcription, FFmpeg rendering, animated subtitles, and auto-upload.
 
-• Discord Automation Platform
+**Arcanex** — Neo brutalist dashboard for managing Discord bots, built with a strict design system across multiple functional pages.
 
-• AI Video Processing Engine
+**Tebak Angka** — Desktop game with full MVC architecture, SQLite-backed auth, solo and bracket multiplayer modes, and seasonal leaderboards.
 
 ---
 
-## GitHub Stats
+### Stack
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AditiaAndrian7&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaAndrian7&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+**Languages** JavaScript · Python · PHP
+
+**Frameworks & Tools** Laravel · React · Node.js · Git
+
+**Other** Arduino · Canva
+
+---
+
+### GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AditiaAndrian7&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaAndrian7&theme=github_dark&hide_border=true&layout=compact" />
+
+![Streak](https://streak-stats.demolab.com/?user=AditiaAndrian7&theme=github-dark-blue&hide_border=true)
+
+---
+
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=AditiaAndrian7&color=blue&style=flat" alt="profile views" /></sub>
