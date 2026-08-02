@@ -4,17 +4,17 @@ Software developer focused on backend systems, automation, and full-stack web de
 
 Building tools around video processing pipelines, Discord bot architecture, and AI-assisted workflows.
 
-**Connect:** [Discord](https://discord.gg/En2SPvJEWG) · [Instagram](https://instagram.com/aditiaa78_)
+Connect: <a href="https://discord.gg/En2SPvJEWG"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a> <a href="https://instagram.com/aditiaa78_"><img src="https://img
 
 ---
 
 ### Featured Projects
 
-**BotClipDC** — Node.js pipeline that automates short-form vertical video clip creation from YouTube, with AI highlight detection, Whisper transcription, FFmpeg rendering, animated subtitles, and auto-upload.
+**BotClipDC** — End-to-end AI pipeline for generating Shorts from YouTube videos, integrating speech recognition, highlight detection, subtitle rendering, and automated publishing.
 
-**Arcanex** — Neo brutalist dashboard for managing Discord bots, built with a strict design system across multiple functional pages.
+**Arcanex** — Scalable management platform for Discord applications, designed around a modular backend architecture and a consistent UI system.
 
-**Tebak Angka** — Desktop game with full MVC architecture, SQLite-backed auth, solo and bracket multiplayer modes, and seasonal leaderboards.
+**Tebak Angka** — Desktop game engineered with the MVC architecture, persistent storage, authentication, multiplayer support, and extensible game logic.
 
 ---
 
