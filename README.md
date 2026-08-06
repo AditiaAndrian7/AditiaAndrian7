@@ -26,7 +26,7 @@ Building tools around video processing pipelines, Discord bot architecture, and 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,dart,py,php,mysql,postgres,sqlite,docker,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,flutter,dart,py,php,mysql,postgres,sqlite,docker,git,github,vscode&perline=7" />
 </p>
 
 ---
