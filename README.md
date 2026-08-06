@@ -23,17 +23,17 @@ Building tools around video processing pipelines, Discord bot architecture, and 
 
 ---
 
-### Stack
+### Tech Stack
 
-**Languages** JavaScript · Python · PHP · SQL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&theme=transparent&hide_border=true&card_width=420" />
+</p>
 
-**Backend** Node.js · Express · Laravel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,py,php,nodejs,laravel,react,postgres,supabase,sqlite,docker,git,github,vscode,linux&perline=8" />
+</p>
 
-**Frontend** React
 
-**Database** PostgreSQL · Supabase · SQLite
-
-**Tools** Git · Docker · FFmpeg
 ---
 
 ### GitHub Stats
