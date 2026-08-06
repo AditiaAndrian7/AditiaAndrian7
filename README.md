@@ -31,11 +31,11 @@ Building tools around video processing pipelines, Discord bot architecture, and 
 
 ---
 
-### GitHub Stats
+### GitHub Streak
 
-
-
-![Streak](https://streak-stats.demolab.com/?user=AditiaAndrian7&theme=github-dark-blue&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AditiaAndrian7&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
